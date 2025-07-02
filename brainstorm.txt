@@ -1,0 +1,12 @@
+TODO:
+  - Playground site with a link to it, where I can show off webgl, and other cool effects I figure out how to do.
+    This can include the webgl project we've already done.
+
+  - Index page should have the introduction, and link to projects, and playground,
+    and maybe even link to a contact page with
+    detailed descriptions of how to get in touch with me,
+    whereas the index page only has something like a mail etc.
+
+  - Contact page can contain a contact formula.
+
+  - We should do a mobile and pc design and make considerations for both.
