@@ -10,3 +10,40 @@ TODO:
   - Contact page can contain a contact formula.
 
   - We should do a mobile and pc design and make considerations for both.
+
+Current TODO:
+
+  - Make index first:
+      - Figure out the content the index should contain.
+      - This means the calls to action, introductions, list of capabilities etc.
+      - Cool transitions between each of these, and for every capability, link to one project that demonstrates it.
+      - Footer and Header, anchor tag, content list with anchor tags.
+      - Detailed list:
+          - Top anchor tag ID.
+          - Header
+          - Brief description.
+          - 3 sections of paragraphs with info with some transition into it
+          - Section of showing off with css or js techniques with scrolling
+          - Section that introduces playground html page function.
+          - If I have some flatrate to do work on free lance basis, introduce that here.
+          - Scroll to the footer that is collapseable, and when we first load in the page, have an animation that closes footer as well.
+          - on the footer, we should have some basic email info, copyright, and then some social links etc.
+      - I also need an avatar, logo and basic theme throughout.
+      - Need to design with dark and light mode in mind from the start, so use colors with a design in mind to begin with.
+      - RGB randomising looks kinda good.
+      - 3D model of myself even, display blender skills, and using Unity publishing to webgl,
+        I can make that model interactable, and have animations etc.
+      - Brainstorming for colors:
+          - RGB PC Building, going into a section of deepspace, into maybe something retro?
+          - RGB Pc Buiilding because those parts generally have RGB, so using those as inspo for theme seems cool.
+          - Typing animations.
+
+
+
+Examples:
+| Site                                                            | Highlights                                                           |
+| --------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [Robby Leonardi](https://www.rleonardi.com/interactive-resume/) | Game-style resume — highly dynamic.                                  |
+| [Bruno Simon](https://bruno-simon.com/)                         | WebGL portfolio that’s a literal game. Great for 3D dev inspiration. |
+| [Tim Roussilhe](https://tim.roussilhe.com/)                     | Clean, fluid scroll with minimal style. Great for subtle animations. |
+| [Adrian Zumbrunnen](https://azumbrunnen.me/)                    | Text-focused, but highly interactive. Uses animations cleverly.      |
